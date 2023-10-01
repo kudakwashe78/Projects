@@ -1,0 +1,23 @@
+html, body {
+	background: #ffeead;
+}
+.container{
+	display: flex;
+	border: 5px solid #ffcc5c;
+}
+.container div {
+	background: peachpuff;
+	padding: 10px;
+	text-align: center;
+	font-size: 2em;
+	color: #ffeead;
+}
+.container div:nth-child(1){
+	background: #96ceb4;
+}
+.container div:nth-child(2){
+	background: #ff6f69;
+}
+.container div:nth-child(3){
+	background: #96ceb4;
+}
